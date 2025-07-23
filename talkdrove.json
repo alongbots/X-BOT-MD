@@ -1,7 +1,7 @@
 
 {
-    "bot-name": "X-BOT-MD",
-    "description": "XBOT MD simple by DavidX",
+    "bot-name": "ALONG",
+    "description": "XBOT MD simple by ALONG",
     "logo": "https://files.catbox.moe/06cgye.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://xbot-auth.onrender.com",
@@ -16,7 +16,7 @@
       },
       "OWNER_NUMBER": {
         "description": "Owner number ",
-        "value":"2349133354644",
+        "value":"918731810311",
         "required": true
         
       }
