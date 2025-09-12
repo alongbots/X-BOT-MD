@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "DAVE-S*F=62SHOB28NJ",
+SESSION_ID: process.env.SESSION_ID || "DAVE-S*F=5SXKOMRSMQ",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
@@ -28,7 +28,7 @@ ANTI_CALL: getConfig("ANTI_CALL") || "false",
 // anticall integration 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/yv8zy4.jpg" ,
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/71uww1.jpg" ,
 // add custom menu and mention reply image url
 PREFIX: getConfig("PREFIX") || ".", 
 // add your prifix for bot   
@@ -50,7 +50,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ALONG",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ALONG*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/yv8zy4.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/71uww1.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> 's T100^607T708X",
 // add alive msg here 
