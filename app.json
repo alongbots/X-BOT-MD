@@ -1,8 +1,8 @@
 {
   "name": "ALONG",
   "description": "Javascript WhatsApp bot made by ALONG",
-  "logo": "https://files.catbox.moe/06cgye.jpg",
-  "keywords": ["X-BOT-MD"],
+  "logo": "https://files.catbox.moe/71uww1.jpg",
+  "keywords": ["ALONG"],
   "success_url": "/",
   "stack": "container",
   "env": {
